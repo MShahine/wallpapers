@@ -1,4 +1,0 @@
-midjourney/1.png
-midjourney/2.png
-midjourney/compressed_midjourney/1comp_.png
-midjourney/compressed_midjourney/2comp_.png

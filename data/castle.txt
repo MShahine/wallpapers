@@ -1,4 +1,0 @@
-castle/1.png
-castle/2.png
-castle/compressed_castle/1comp_.png
-castle/compressed_castle/2comp_.png
