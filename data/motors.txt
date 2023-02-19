@@ -1,0 +1,8 @@
+motors/1.png
+motors/2.png
+motors/3.png
+motors/4.png
+motors/compressed_motors/1comp_.png
+motors/compressed_motors/2comp_.png
+motors/compressed_motors/3comp_.png
+motors/compressed_motors/4comp_.png

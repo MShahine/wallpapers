@@ -1,0 +1,6 @@
+myths/1.png
+myths/2.png
+myths/3.png
+myths/compressed_myths/1comp_.png
+myths/compressed_myths/2comp_.png
+myths/compressed_myths/3comp_.png

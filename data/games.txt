@@ -1,0 +1,2 @@
+games/1.png
+games/compressed_games/1comp_.png

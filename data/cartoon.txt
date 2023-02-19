@@ -1,0 +1,6 @@
+cartoon/1.png
+cartoon/2.png
+cartoon/3.png
+cartoon/compressed_cartoon/1comp_.png
+cartoon/compressed_cartoon/2comp_.png
+cartoon/compressed_cartoon/3comp_.png
