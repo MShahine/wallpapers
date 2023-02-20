@@ -1,12 +1,32 @@
 [
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/1.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/2.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/3.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/4.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/5.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/1comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/2comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/3comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/4comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/5comp_.png"
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/1.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/2.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/3.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/4.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/5.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/1comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/2comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/3comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/4comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/5comp_.png"
+  }
 ]

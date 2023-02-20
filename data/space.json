@@ -1,24 +1,68 @@
 [
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/1.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/10.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/11.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/2.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/3.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/4.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/5.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/6.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/7.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/8.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/9.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/10comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/11comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/1comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/2comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/3comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/4comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/5comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/6comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/7comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/8comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/9comp_.png"
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/1.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/10.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/11.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/2.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/3.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/4.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/5.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/6.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/7.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/8.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/9.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/10comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/11comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/1comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/2comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/3comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/4comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/5comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/6comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/7comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/8comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/9comp_.png"
+  }
 ]

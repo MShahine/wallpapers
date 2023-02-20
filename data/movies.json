@@ -1,24 +1,68 @@
 [
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/1.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/10.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/11.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/2.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/3.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/4.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/5.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/6.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/7.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/8.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/9.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/10comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/11comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/1comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/2comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/3comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/4comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/5comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/6comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/7comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/8comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/9comp_.png"
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/1.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/10.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/11.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/2.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/3.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/4.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/5.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/6.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/7.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/8.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/9.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/10comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/11comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/1comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/2comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/3comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/4comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/5comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/6comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/7comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/8comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/9comp_.png"
+  }
 ]

@@ -1,6 +1,14 @@
 [
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/1.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/2.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/compressed_midjourney/1comp_.png",
-  "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/compressed_midjourney/2comp_.png"
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/1.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/2.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/compressed_midjourney/1comp_.png"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/compressed_midjourney/2comp_.png"
+  }
 ]
