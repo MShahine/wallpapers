@@ -1,86 +1,72 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/10.png"
+    "id": "10",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/10.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/10comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/11.png"
+    "id": "11",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/11.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/11comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/12.png"
+    "id": "12",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/12.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/12comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/13.png"
+    "id": "13",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/13.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/13comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/14.png"
+    "id": "14",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/14.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/14comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/2.png"
+    "id": "2",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/2.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/2comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/3.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/3comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/4.png"
+    "id": "4",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/4.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/5.png"
+    "id": "5",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/5.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/5comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/6.png"
+    "id": "6",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/6.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/6comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/7.png"
+    "id": "7",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/7.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/7comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/8.png"
+    "id": "8",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/8.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/8comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/9.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/10comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/11comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/12comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/13comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/14comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/2comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/3comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/4comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/5comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/6comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/7comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/8comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/9comp_.png"
+    "id": "9",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/9.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/9comp_.png"
   }
 ]

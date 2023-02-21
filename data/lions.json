@@ -1,62 +1,52 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/10.png"
+    "id": "10",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/10.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/10comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/2.png"
+    "id": "2",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/2.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/2comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/3.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/3comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/4.png"
+    "id": "4",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/4.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/5.png"
+    "id": "5",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/5.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/5comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/6.png"
+    "id": "6",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/6.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/6comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/7.png"
+    "id": "7",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/7.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/7comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/8.png"
+    "id": "8",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/8.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/8comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/9.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/10comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/2comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/3comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/4comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/5comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/6comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/7comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/8comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/9comp_.png"
+    "id": "9",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/9.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/9comp_.png"
   }
 ]

@@ -1,20 +1,17 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/2.png"
+    "id": "2",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/2.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/2comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/3.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/2comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/3comp_.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/3comp_.png"
   }
 ]

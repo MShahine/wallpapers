@@ -1,212 +1,177 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/10.png"
+    "id": "10",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/10.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/10comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/11.png"
+    "id": "11",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/11.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/11comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/12.png"
+    "id": "12",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/12.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/12comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/13.png"
+    "id": "13",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/13.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/13comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/14.png"
+    "id": "14",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/14.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/15.png"
+    "id": "15",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/15.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/15comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/16.png"
+    "id": "16",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/16.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/16comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/17.png"
+    "id": "17",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/17.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/17comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/18.png"
+    "id": "18",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/18.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/18comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/19.png"
+    "id": "19",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/19.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/19comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/2.png"
+    "id": "2",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/2.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/2comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/20.png"
+    "id": "20",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/20.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/20comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/21.png"
+    "id": "21",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/21.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/21comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/22.png"
+    "id": "22",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/22.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/22comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/23.png"
+    "id": "23",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/23.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/23comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/24.png"
+    "id": "24",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/24.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/24comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/25.png"
+    "id": "25",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/25.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/25comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/26.png"
+    "id": "26",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/26.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/26comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/27.png"
+    "id": "27",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/27.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/27comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/28.png"
+    "id": "28",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/28.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/28comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/29.png"
+    "id": "29",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/29.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/29comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/3.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/3comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/30.png"
+    "id": "30",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/30.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/30comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/31.png"
+    "id": "31",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/31.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/31comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/32.png"
+    "id": "32",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/32.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/32comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/33.png"
+    "id": "33",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/33.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/33comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/34.png"
+    "id": "34",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/34.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/34comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/35.png"
+    "id": "35",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/35.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/35comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/4.png"
+    "id": "4",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/4.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/5.png"
+    "id": "5",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/5.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/5comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/6.png"
+    "id": "6",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/6.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/6comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/7.png"
+    "id": "7",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/7.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/7comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/8.png"
+    "id": "8",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/8.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/8comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/9.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/10comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/11comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/12comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/13comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/14comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/15comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/16comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/17comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/18comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/19comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/20comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/21comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/22comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/23comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/24comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/25comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/26comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/27comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/28comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/29comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/2comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/30comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/31comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/32comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/33comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/34comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/35comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/3comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/4comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/5comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/6comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/7comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/8comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/9comp_.png"
+    "id": "9",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/9.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/39comp_.png"
   }
 ]

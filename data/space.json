@@ -1,68 +1,57 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/10.png"
+    "id": "10",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/10.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/10comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/11.png"
+    "id": "11",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/11.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/11comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/2.png"
+    "id": "2",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/2.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/2comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/3.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/3comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/4.png"
+    "id": "4",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/4.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/5.png"
+    "id": "5",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/5.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/5comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/6.png"
+    "id": "6",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/6.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/6comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/7.png"
+    "id": "7",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/7.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/7comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/8.png"
+    "id": "8",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/8.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/8comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/9.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/10comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/11comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/2comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/3comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/4comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/5comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/6comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/7comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/8comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/9comp_.png"
+    "id": "9",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/9.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/9comp_.png"
   }
 ]

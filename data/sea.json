@@ -1,194 +1,162 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/10.png"
+    "id": "10",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/10.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/10comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/11.png"
+    "id": "11",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/11.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/11comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/12.png"
+    "id": "12",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/12.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/12comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/13.png"
+    "id": "13",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/13.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/13comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/14.png"
+    "id": "14",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/14.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/14comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/15.png"
+    "id": "15",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/15.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/15comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/16.png"
+    "id": "16",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/16.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/16comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/17.png"
+    "id": "17",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/17.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/17comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/18.png"
+    "id": "18",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/18.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/18comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/19.png"
+    "id": "19",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/19.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/19comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/2.png"
+    "id": "2",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/2.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/2comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/20.png"
+    "id": "20",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/20.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/20comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/21.png"
+    "id": "21",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/21.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/21comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/22.png"
+    "id": "22",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/22.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/22comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/23.png"
+    "id": "23",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/23.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/23comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/24.png"
+    "id": "24",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/24.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/24comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/25.png"
+    "id": "25",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/25.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/25comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/26.png"
+    "id": "26",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/26.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/26comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/27.png"
+    "id": "27",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/27.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/27comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/28.png"
+    "id": "28",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/28.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/28comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/29.png"
+    "id": "29",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/29.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/29comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/3.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/3comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/30.png"
+    "id": "30",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/30.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/30comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/31.png"
+    "id": "31",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/31.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/31comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/32.png"
+    "id": "32",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/32.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/32comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/4.png"
+    "id": "4",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/4.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/5.png"
+    "id": "5",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/5.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/5comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/6.png"
+    "id": "6",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/6.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/6comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/7.png"
+    "id": "7",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/7.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/7comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/8.png"
+    "id": "8",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/8.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/8comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/9.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/10comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/11comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/12comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/13comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/14comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/15comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/16comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/17comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/18comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/19comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/20comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/21comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/22comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/23comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/24comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/25comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/26comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/27comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/28comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/29comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/2comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/30comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/31comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/32comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/3comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/4comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/5comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/6comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/7comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/8comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/9comp_.png"
+    "id": "9",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/9.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/9comp_.png"
   }
 ]

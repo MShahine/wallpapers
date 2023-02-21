@@ -1,146 +1,122 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/1.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/1.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/1comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/10.png"
+    "id": "10",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/10.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/10comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/11.png"
+    "id": "11",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/11.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/11comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/12.png"
+    "id": "12",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/12.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/12comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/13.png"
+    "id": "13",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/13.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/13comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/14.png"
+    "id": "14",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/14.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/14comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/15.png"
+    "id": "15",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/15.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/15comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/16.png"
+    "id": "16",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/16.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/16comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/17.png"
+    "id": "17",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/17.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/17comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/18.png"
+    "id": "18",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/18.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/18comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/19.png"
+    "id": "19",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/19.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/19comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/20.png"
+    "id": "20",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/20.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/20comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/21.png"
+    "id": "21",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/21.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/21comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/22.png"
+    "id": "22",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/22.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/22comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/23.png"
+    "id": "23",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/23.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/23comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/24.png"
+    "id": "24",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/24.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/24comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/25.png"
+    "id": "25",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/25.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/25comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/3.png"
+    "id": "3",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/3.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/3comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/4.png"
+    "id": "4",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/4.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/4comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/5.png"
+    "id": "5",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/5.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/5comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/6.png"
+    "id": "6",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/6.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/6comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/7.png"
+    "id": "7",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/7.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/7comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/8.png"
+    "id": "8",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/8.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/8comp_.png"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/9.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/10comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/11comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/12comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/13comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/14comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/15comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/16comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/17comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/18comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/19comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/1comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/20comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/21comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/22comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/23comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/24comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/25comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/3comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/4comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/5comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/6comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/7comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/8comp_.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/9comp_.png"
+    "id": "9",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/9.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/9comp_.png"
   }
 ]

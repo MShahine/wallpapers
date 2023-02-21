@@ -1,8 +1,7 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/sport/nba/59.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/sport/nba/compressed_nba/59comp_.png"
+    "id": "1",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/sport/nba/59.png",
+    "imageHD": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/sport/nba/compressed_nba/59comp_.png"
   }
 ]
