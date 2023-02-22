@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "name": "abstract",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/abstract/compressed_abstract/34comp_.png",
+    "numberOfImages": "38"
+  },
+  {
+    "id": "2",
+    "name": "buffalo",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/buffalo/1comp_.png",
+    "numberOfImages": "1"
+  },
+  {
+    "id": "3",
+    "name": "castle",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/castle/compressed_castle/1comp_.png",
+    "numberOfImages": "2"
+  },
+  {
+    "id": "4",
+    "name": "clubs",
+    "imageUrl": "https://github.com/SoufianeAmed/8kwalls/blob/main/sport/clubs/compressed_clubs/2comp_.png",
+    "numberOfImages": "2"
+  },
+  {
+    "id": "5",
+    "name": "dogs",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/dogs/compressed_dogs/13comp_.png",
+    "numberOfImages": "14"
+  },
+  {
+    "id": "6",
+    "name": "fire",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/fire/compressed_fire/5comp_.png",
+    "numberOfImages": "10"
+  },
+  {
+    "id": "7",
+    "name": "forest",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/forest/compressed_forest/30comp_.png",
+    "numberOfImages": "42"
+  },
+  {
+    "id": "8",
+    "name": "games",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/games/compressed_games/1comp_.png",
+    "numberOfImages": "1"
+  },
+  {
+    "id": "9",
+    "name": "lions",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/lions/compressed_lions/10comp_.png",
+    "numberOfImages": "10"
+  },
+  {
+    "id": "10",
+    "name": "mountains",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/mountains/compressed_mountains/21comp_.png",
+    "numberOfImages": "24"
+  },
+  {
+    "id": "11",
+    "name": "nba",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/sport/nba/compressed_nba/59comp_.png",
+    "numberOfImages": "1"
+  },
+  {
+    "id": "12",
+    "name": "rabbits",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/rabits/compressed_rabbits/1comp_.png",
+    "numberOfImages": "1"
+  },
+  {
+    "id": "13",
+    "name": "skull",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/skull/compressed_skull/2comp_.png",
+    "numberOfImages": "4"
+  },
+  {
+    "id": "14",
+    "name": "tigers",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/tigers/compressed_tigers/7comp_.png",
+    "numberOfImages": "11"
+  },
+  {
+    "id": "15",
+    "name": "anime",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/anime/compressed_anime/12.png",
+    "numberOfImages": "13"
+  },
+  {
+    "id": "16",
+    "name": "cars",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cars/compressed_cars/6comp_.png",
+    "numberOfImages": "48"
+  },
+  {
+    "id": "17",
+    "name": "cats",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/cats/compresses_cats/6.jpg",
+    "numberOfImages": "28"
+  },
+  {
+    "id": "18",
+    "name": "coffee",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/food/coffee/compressed_coffee/2comp_.png",
+    "numberOfImages": "2"
+  },
+  {
+    "id": "19",
+    "name": "duck",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/duck/compressed_duck/1comp_.png",
+    "numberOfImages": "1"
+  },
+  {
+    "id": "20",
+    "name": "fish",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/fish/compressed_fish/2comp_.png",
+    "numberOfImages": "2"
+  },
+  {
+    "id": "21",
+    "name": "fruits",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/food/fruits/compressed_fruits/6comp_.png",
+    "numberOfImages": "11"
+  },
+  {
+    "id": "22",
+    "name": "girls",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/girls/compressed_girls/34comp_.png",
+    "numberOfImages": "36"
+  },
+  {
+    "id": "23",
+    "name": "midjourney",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/midjourney/compressed_midjourney/1comp_.png",
+    "numberOfImages": "2"
+  },
+  {
+    "id": "24",
+    "name": "movies",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/movies/compressed_movies/1comp_.png",
+    "numberOfImages": "12"
+  },
+  {
+    "id": "25",
+    "name": "owl",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/owl/2.png",
+    "numberOfImages": "2"
+  },
+  {
+    "id": "26",
+    "name": "roads",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/roads/compressed_roads/10comp_.png",
+    "numberOfImages": "11"
+  },
+  {
+    "id": "27",
+    "name": "snakes",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/snakes/compresed_snakes/4comp_.png",
+    "numberOfImages": "4"
+  },
+  {
+    "id": "28",
+    "name": "winter",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/winter/compressed_winter/16comp_.png",
+    "numberOfImages": "21"
+  },
+  {
+    "id": "29",
+    "name": "bear",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/bear/compressd_bear/2comp_.png",
+    "numberOfImages": "3"
+  },
+  {
+    "id": "30",
+    "name": "cartoon",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/cartoon/compressed_cartoon/1comp_.png",
+    "numberOfImages": "3"
+  },
+  {
+    "id": "31",
+    "name": "city",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/city/compressed_city/16comp_.png",
+    "numberOfImages": "41"
+  },
+  {
+    "id": "32",
+    "name": "desert",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/desert/compressed_desert/3comp_.png",
+    "numberOfImages": "5"
+  },
+  {
+    "id": "33",
+    "name": "falcon",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/falcon/compressed_falcon/2comp_.png",
+    "numberOfImages": "5"
+  },
+  {
+    "id": "34",
+    "name": "flowers",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/flowers/compressed_flowers/3comp_.png",
+    "numberOfImages": "36"
+  },
+  {
+    "id": "35",
+    "name": "galaxy",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/galaxy/compressed_galaxy/6comp_.png",
+    "numberOfImages": "30"
+  },
+  {
+    "id": "36",
+    "name": "ice",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/food/ice/compressed_ice/1comp_.png",
+    "numberOfImages": "1"
+  },
+  {
+    "id": "37",
+    "name": "motors",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/motors/compressed_motors/4comp_.png",
+    "numberOfImages": "4"
+  },
+  {
+    "id": "38",
+    "name": "myths",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/myths/compressed_myths/2comp_.png",
+    "numberOfImages": "3"
+  },
+  {
+    "id": "39",
+    "name": "plane",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/plane/compressed_plane/5comp_.png",
+    "numberOfImages": "5"
+  },
+  {
+    "id": "40",
+    "name": "sea",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/nature/sea/compressed_sea/28comp_.png",
+    "numberOfImages": "32"
+  },
+  {
+    "id": "41",
+    "name": "space",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/space/compressed_space/6comp_.png",
+    "numberOfImages": "11"
+  },
+  {
+    "id": "42",
+    "name": "wolf",
+    "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/animals/wolf/compressed_wolf/3comp_.png",
+    "numberOfImages": "3"
+  }
+]
