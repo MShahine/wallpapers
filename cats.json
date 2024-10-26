@@ -17,12 +17,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SoufianeAmed/8kwalls/main/castle/compressed_castle/1comp_.png",
     "numberOfImages": "2"
   },
-  {
-    "id": "4",
-    "name": "clubs",
-    "imageUrl": "https://github.com/SoufianeAmed/8kwalls/blob/main/sport/clubs/compressed_clubs/2comp_.png",
-    "numberOfImages": "2"
-  },
+ 
   {
     "id": "5",
     "name": "dogs",
